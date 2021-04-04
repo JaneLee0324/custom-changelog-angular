@@ -1,4 +1,4 @@
-# 中文版请点击[这里](https://github.com/JaneLee0324/custom-changelog-angular/blob/main/README.md).
+# 中文版请点击[这里](https://github.com/JaneLee0324/custom-changelog-angular/blob/feature/mainFunc/README.md).
 
 # Background
 It'd be really convinient if we could generate CHANGELOG.md based on the commits we have committed, which in return contributes to the format formalization of commit messages as well.

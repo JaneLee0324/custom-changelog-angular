@@ -1,4 +1,4 @@
-# For English version, please click [here](https://github.com/JaneLee0324/custom-changelog-angular/blob/main/README_ENG.md).
+# For English version, please click [here](https://github.com/JaneLee0324/custom-changelog-angular/blob/feature/mainFunc/README_ENG.md).
 
 # 背景
 在npm包的开发中，如果能够根据提交信息自动化生成CHANGELOG会是一件很方便的事；同时有利于通过这种自动化操作来规范提交信息的书写和习惯。

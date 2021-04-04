@@ -1,6 +1,6 @@
 'use strict';
 
-const parserOpts = require('./parser_opts');
+const parserOpts = require('../options/parser_opts');
 
 module.exports = {
     parserOpts,

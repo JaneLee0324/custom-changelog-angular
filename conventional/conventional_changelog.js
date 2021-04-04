@@ -1,8 +1,8 @@
 'use strict';
 
 const Q = require('q');
-const parserOpts = require('./parser_opts');
-const writerOpts = require('./writer_opts');
+const parserOpts = require('../options/parser_opts');
+const writerOpts = require('../options/writer_opts');
 
 module.exports = Q.all([parserOpts, writerOpts]).spread((parserOpts, writerOpts) => {
     return {
